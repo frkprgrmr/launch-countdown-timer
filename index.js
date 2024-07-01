@@ -2,8 +2,6 @@ var dueDate = new Date(2024, 6, 4, 0, 0, 0);
 
 var remainingTime = [];
 
-console.log(dueDate);
-
 function changeTime() {
   const todayDate = new Date();
   const diffDate = Math.abs(dueDate - todayDate);
