@@ -1,4 +1,4 @@
-var dueDate = new Date(2024, 6, 4, 0, 0, 0);
+var dueDate = new Date(2025, 1, 1, 0, 0, 0);
 
 var remainingTime = [];
 
